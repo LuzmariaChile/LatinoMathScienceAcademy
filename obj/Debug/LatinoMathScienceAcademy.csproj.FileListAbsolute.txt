@@ -1,0 +1,7 @@
+C:\Users\Luzmaria\Documents\Visual Studio 2013\Projects\KalAcademy\LatinoMathScienceAcademy\LatinoMathScienceAcademy\bin\Debug\LatinoMathScienceAcademy.exe.config
+C:\Users\Luzmaria\Documents\GitHub\LatinoMathScienceAcademy\bin\Debug\LatinoMathScienceAcademy.exe.config
+C:\Users\Luzmaria\Documents\GitHub\LatinoMathScienceAcademy\bin\Debug\LatinoMathScienceAcademy.exe
+C:\Users\Luzmaria\Documents\GitHub\LatinoMathScienceAcademy\bin\Debug\LatinoMathScienceAcademy.pdb
+C:\Users\Luzmaria\Documents\GitHub\LatinoMathScienceAcademy\obj\Debug\LatinoMathScienceAcademy.csprojResolveAssemblyReference.cache
+C:\Users\Luzmaria\Documents\GitHub\LatinoMathScienceAcademy\obj\Debug\LatinoMathScienceAcademy.exe
+C:\Users\Luzmaria\Documents\GitHub\LatinoMathScienceAcademy\obj\Debug\LatinoMathScienceAcademy.pdb
